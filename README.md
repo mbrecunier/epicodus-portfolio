@@ -28,4 +28,4 @@ This is a review of basic HTML, CSS, MD, and Bootstrap.
 ### License
 MIT License.
 
-Copyright (c) 2016 **_Michelle Brecunier**
+Copyright (c) 2016 **Michelle Brecunier**
