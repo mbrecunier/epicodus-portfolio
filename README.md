@@ -13,6 +13,10 @@ This Epicodus project is the landing page for my web programming portfolio on Gi
 * Clone this repository
 * Open in any standard web browser
 
+--or--
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/)
+
 ## Known Bugs
 
 No known bugs.
