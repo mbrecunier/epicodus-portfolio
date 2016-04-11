@@ -17,10 +17,6 @@ This Epicodus project is the landing page for my web programming portfolio on Gi
 
 No known bugs.
 
-## Support and contact details
-
-michelle.brecunier@gmail.com
-
 ## Technologies Used
 
 This is a review of basic HTML, CSS, MD, and Bootstrap.
